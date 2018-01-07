@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5E0D-241E
+
+ Directory of C:\Users\nagendra\Desktop\my project
+
+01/07/2018  01:56 PM    <DIR>          .
+01/07/2018  01:56 PM    <DIR>          ..
+01/07/2018  01:55 PM    <DIR>          git
+01/07/2018  01:56 PM                 0 text.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  594,745,397,248 bytes free
